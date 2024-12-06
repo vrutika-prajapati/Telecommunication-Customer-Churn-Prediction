@@ -56,7 +56,8 @@ This project demonstrates the importance of machine learning in predicting custo
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/vrutika-prajapati/Telecommunication-Customer-Churn-Prediction.git
+
 2. Install requierd packages:
    ```bash
    pip install -r requirements.txt
